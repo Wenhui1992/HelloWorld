@@ -1,2 +1,2 @@
-# HelloWorld
-for practice
+# matrix class
+not finished
